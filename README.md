@@ -24,12 +24,14 @@ email bjahmad4tech@gmail.com_
 - [x] GatsbyJS
 - [x] storybook with react
 - [x] Wordpress
+- [x] firebase, firestore
+- [x] CI/CD, netlify, heroku
 - [x] code styling, linting, testing & assertions
 - [x] project management and collaboration, jira, trello, slack, github projects
 
 ## portfolio
 
-    Here a couple projects i have worked on. unfortunately not all of them are hosted. I find myself getting drowned in writing codes for the sake of growth. i usually ignore deploying my works (something i look forward to changing), some of them are collaborations and deploying depend on the other team member(s), some are contract jobs and i am unable to publicly share the code repo. i'll try to talk about my works
+    Here a couple projects i have worked on. unfortunately not all of them are hosted. I find myself getting drowned in writing codes for the sake of growth. i usually ignore deploying my works (something i look forward to changing), some of them are collaborations and deploying depend on the other team member(s), some are contract jobs and i am unable to publicly share the code repo. i'll try to talk about my them as much
     
 1. Talos cryptocurrency app, (february 2020 - April 2020): This is a collaboration project i worked on with [Tout-saint](https://github.com/john-eleos "John_eleos' repository"). it's a cryptocurrency trading bot that helps users enter and close trades efficiently. so basically a dashboard app and it had a lot of API requests, charts and tables. it was built with react, formik, nodeJS and bootstrap. this was sort of my first project and it really set the groundwork for a other projects i worked on. this was initially deployed on netlify but i guess we ran out of funds so it's on pause for now but we plan to continue and it's also a private repo 😞
 
