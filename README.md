@@ -6,10 +6,10 @@ twitter [@bolajahmad_](https://twitter.com/bolajahmad_)
 linkedin [Bolaji Ahmad](https://linkedin.com/in/bolajahmad)
 email bjahmad4tech@gmail.com_
 
-- i have over 2 years experience building react apps and i started learning angular earlier this year
-- i wish to collaborate on a typescript, react or angular project
-- working on an open source project is a wish of mine but for some reasons i have never been able to find one project to contribute to. i am actively looking for it
-- i am also currently learning javascript data structures & algorithms, backend architectures, C# with hopes of delving into ASP.NET
+- over 3 years experience writing react, and angular apps. currently learning solidity and react-native
+- i wish to collaborate on a typescript, javascript codes. and also very interested in D'Apps.
+- interested in working on open source projects
+- i am also currently learning javascript data structures & algorithms
 
 ## Couple skills i have accummulated
 
@@ -17,6 +17,8 @@ email bjahmad4tech@gmail.com_
 - [x] react
 - [x] angular
 - [x] jQuery
+- [x] solidity
+- [x] react-native
 - [x] vanilla JS/TS
 - [x] HTML, CSS
 - [x] bootstrap/ SASS preprocessor
