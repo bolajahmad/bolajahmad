@@ -21,7 +21,7 @@ I'm a front-end engineer with a passion for building blockchain applications. I'
 Here a couple projects i have worked on.
     
 1. DAOBox: DAOBOX is an advanced DAO, that improves governance and social coordination by leveraging two new [Aragon OSx plugins](https://aragon.org/aragonosx): the _Optimistic Proposal Plugin_, which utilizes the subjective oracle flow provided by [Kleros court](https://kleros.io/) (could be any decentralized arbitration servoce) to streamline decision-making processes in DAOs, and the _Lens Voting Plugin_, which integrates with the Lens protocol Follow NFT interface to enable NFT holders to natively build a DAO on Aragon OSx by delegating voting power and providing context on other members.
-    Github Link(s): [NextJS Frontend](https://github.com/DAObox/daoglobal-hackathon-ui); [Optimistic Proposal Plugin](https://github.com/DAObox/optimistic-proposal-plugin)
+    Github Link(s): [NextJS Frontend](https://github.com/DAObox/daoglobal-hackathon-ui); [Optimistic Proposal Plugin](https://github.com/DAObox/optimistic-proposal-plugin); [Catalyst App](https://github.com/DAObox/liquid-protocol)
 
 
 2. Quereers: Decentralized social media dapp powered by [Subsocial parchain](https://subsocial.network/) on Polkadot blockchain. Built this as part of the Polkadot Europe hackathon in early 2023. The github repository can be found here: [Quereers](https://github.com/bolajahmad/quereers)
