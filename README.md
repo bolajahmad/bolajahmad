@@ -1,18 +1,18 @@
 Hi, I'm Bolaji Ahmad
 ====================================================================================================================================
 
-Frontend Blockchain Engineer
+Blockchain Engineer
 ------------------------------
 
-I'm a front-end engineer with a passion for building blockchain applications. I'm currently participating in blokchain-related hackathons and open-source projects, send me a DM (on Discord) for collaborations.
+I'm a blockchain engineer with a passion for building blockchain applications. I'm currently participating in blokchain-related hackathons and open-source projects, send me a DM (on Discord) for collaborations.
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  Based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Github](http://github.com/bolajahmad)
 * 📧 Reach out to me on [Discord](https://discord.gg/qCBQdpmY)
 * 🚀  I'm currently working on my Portfolio
-* 🧠  I'm learning Substrate, Solidity
+* 🧠  I'm building on Substrate, Rust and Typescript
 * 🤝  I'm open to collaborating on Rust, Typescript, Solidity, NextJS
-* 🧙🏼‍♂️ I have seen entire One Piece at least twice
+* 🧙🏼‍♂️ Favorite anime: One piece
 
 
 ### portfolio
