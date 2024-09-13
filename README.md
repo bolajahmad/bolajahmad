@@ -29,8 +29,6 @@ Here a couple projects i have worked on.
 
 4. CredQuest: Submission for Filecoin Space Warp hack. Credquest is a verifiable credentialing application where users can easily and trustlessly prove their experience. This is a web3 dapp built using Hardhat, Ethers Events, Express backend, NextJS frontend. [Github Repo](https://github.com/CredLancer/CredQuestFVM)
 
-5. Rust Journey: I am learning rust, abd substrate. But this is my journey in rust so far. [https://github.com/bolajahmad/rust-journey](View)
-
 
 ### Skills
 
