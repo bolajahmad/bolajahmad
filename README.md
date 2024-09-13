@@ -22,12 +22,14 @@ Here a couple projects i have worked on.
 1. DAOBox: DAOBOX is an advanced DAO, that improves governance and social coordination by leveraging two new [Aragon OSx plugins](https://aragon.org/aragonosx): the _Optimistic Proposal Plugin_, which utilizes the subjective oracle flow provided by [Kleros court](https://kleros.io/) (could be any decentralized arbitration servoce) to streamline decision-making processes in DAOs, and the _Lens Voting Plugin_, which integrates with the Lens protocol Follow NFT interface to enable NFT holders to natively build a DAO on Aragon OSx by delegating voting power and providing context on other members.
     Github Link(s): [NextJS Frontend](https://github.com/DAObox/daoglobal-hackathon-ui); [Optimistic Proposal Plugin](https://github.com/DAObox/optimistic-proposal-plugin); [Catalyst App](https://github.com/DAObox/liquid-protocol)
 
-2. UBESWAP DAO Bounty: UbeSwap is a DEX on the Celo blockchain and the challenge was to develop a solution for fulfilling milestone payments for grants funded by the Ubeswap DAO. It is properly optimised to save gas upon execution. [UbeSwap DAO](https://github.com/bolajahmad/Ubeswap-Dao-Hackathon).
+2. Rust for blockchains: These sets of projects include a number of projects, involving blockchains, that I've built using Rust language. These projects involve a number of [cryptography principles](https://github.com/bolajahmad/hashing-algorithm-demo), [blockchain core engineering](https://github.com/bolajahmad/bitcoin-mining-simulation) and rust scripting. These are the results of my personal research and journey.
+
+3. UBESWAP DAO Bounty: UbeSwap is a DEX on the Celo blockchain and the challenge was to develop a solution for fulfilling milestone payments for grants funded by the Ubeswap DAO. It is properly optimised to save gas upon execution. [UbeSwap DAO](https://github.com/bolajahmad/Ubeswap-Dao-Hackathon).
 
 
-3. Quereers: Decentralized social media dapp powered by [Subsocial parchain](https://subsocial.network/) on Polkadot blockchain. Built this as part of the Polkadot Europe hackathon in early 2023. The github repository can be found here: [Quereers](https://github.com/bolajahmad/quereers)
+4. Quereers: Decentralized social media dapp powered by [Subsocial parchain](https://subsocial.network/) on Polkadot blockchain. Built this as part of the Polkadot Europe hackathon in early 2023. The github repository can be found here: [Quereers](https://github.com/bolajahmad/quereers)
 
-4. CredQuest: Submission for Filecoin Space Warp hack. Credquest is a verifiable credentialing application where users can easily and trustlessly prove their experience. This is a web3 dapp built using Hardhat, Ethers Events, Express backend, NextJS frontend. [Github Repo](https://github.com/CredLancer/CredQuestFVM)
+5. CredQuest: Submission for Filecoin Space Warp hack. Credquest is a verifiable credentialing application where users can easily and trustlessly prove their experience. This is a web3 dapp built using Hardhat, Ethers Events, Express backend, NextJS frontend. [Github Repo](https://github.com/CredLancer/CredQuestFVM)
 
 
 ### Skills
